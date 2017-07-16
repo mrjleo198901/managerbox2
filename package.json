@@ -8,15 +8,16 @@
     "start": "node app"
   },
   "dependencies": {
-    "express": "*",
-    "mongoose": "*",
     "bcryptjs": "*",
-    "cors": "*",
-    "jsonwebtoken": "*",
     "body-parser": "*",
+    "cors": "*",
+    "express": "*",
+    "jsonwebtoken": "*",
+    "mongoose": "*",
+    "ng2-smart-table": "^0.6.0-0",
+    "node-restful": "*",
     "passport": "*",
-    "passport-jwt": "*",
-    "node-restful": "*"
+    "passport-jwt": "*"
   },
   "author": "RioBytes Inc",
   "license": "ISC"
